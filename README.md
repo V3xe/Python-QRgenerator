@@ -1,1 +1,1 @@
-Simple QR generator. Provide link when prompted.
+Simple QR generator.
